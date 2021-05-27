@@ -8,8 +8,4 @@ ttttt
 kkkkk
 
 
-<<<<<<< HEAD
-master master
-=======
-featurel featurel featurel featurel 
->>>>>>> featurel
+master
